@@ -3,7 +3,7 @@
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=mihiron&show_icons=true&count_private=true)
 
 
-## :books: Language / Framework :books:
+## :books: Language / Framework etc. :books:
 - Python
   - Django
   - Flask
